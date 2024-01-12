@@ -1,0 +1,89 @@
+POST localhost:3000/socios/v1/categorias
+Content-Type: application/json
+
+{
+    "nombre": "Alimentos",
+    "descripcion": "Comidas y bebidas"
+}
+
+POST localhost:3000/socios/v1/categorias
+Content-Type: application/json
+
+{
+    "nombre": "Hogar",
+    "descripcion": "Artículos para el hogar"
+}
+
+// Tercera solicitud
+POST localhost:3000/socios/v1/categorias
+Content-Type: application/json
+
+{
+    "nombre": "Electrónicos",
+    "descripcion": "Dispositivos electrónicos y accesorios"
+}
+
+// Cuarta solicitud
+POST localhost:3000/socios/v1/categorias
+Content-Type: application/json
+
+{
+    "nombre": "Ropa",
+    "descripcion": "Prendas de vestir y accesorios"
+}
+
+// Quinta solicitud
+POST localhost:3000/socios/v1/categorias
+Content-Type: application/json
+
+{
+    "nombre": "Juguetes",
+    "descripcion": "Artículos de entretenimiento para niños"
+}
+
+// Sexta solicitud
+POST localhost:3000/socios/v1/categorias
+Content-Type: application/json
+
+{
+    "nombre": "Deportes",
+    "descripcion": "Equipos y accesorios deportivos"
+}
+
+// Séptima solicitud
+POST localhost:3000/socios/v1/categorias
+Content-Type: application/json
+
+{
+    "nombre": "Libros",
+    "descripcion": "Literatura y material educativo"
+}
+
+// Octava solicitud
+POST localhost:3000/socios/v1/categorias
+Content-Type: application/json
+
+{
+    "nombre": "Salud",
+    "descripcion": "Productos y servicios para la salud"
+}
+
+// Novena solicitud
+POST localhost:3000/socios/v1/categorias
+Content-Type: application/json
+
+{
+    "nombre": "Automóviles",
+    "descripcion": "Vehículos y accesorios automotrices"
+}
+
+// Décima solicitud
+POST localhost:3000/socios/v1/categorias
+Content-Type: application/json
+
+{
+    "nombre": "Electrodomésticos",
+    "descripcion": "Dispositivos para el hogar"
+}
+
+
